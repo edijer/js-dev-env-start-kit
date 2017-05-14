@@ -1,2 +1,2 @@
-# ps-js-dev-env
+# js-dev-env-start-kit
 JS Development Environment
