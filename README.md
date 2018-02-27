@@ -66,4 +66,4 @@ JS Development Environment
 
 * JS in JS files
 * Use Feature Folders
-* Test files with feature folders
+* Test files within feature folders
